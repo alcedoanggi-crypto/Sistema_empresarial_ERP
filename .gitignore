@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+backend/.env
+
+# Node
+node_modules/
+dist/
+
+# Logs locales
+*.log
